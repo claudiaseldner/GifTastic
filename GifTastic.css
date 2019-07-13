@@ -1,0 +1,35 @@
+
+.jumbotron{
+	background-color: #44b1b1;
+    color: #ffffff;
+    height: 2em;
+    margin-top: -60px;
+}
+
+
+#countries{
+    padding: 3%;
+    column-count: 2;
+    column-gap: 250px;
+
+}
+div{
+    margin-bottom: 3%;
+   
+}
+.gif{
+    max-width: 550px;
+}
+.btn{
+    background-color: #44b1b1;
+    border-color: #44b1b1
+}
+#add-country{
+    color: green;
+}
+#country-input{
+    color: green;
+}
+#text-title{
+  text-align-last: center;
+}
